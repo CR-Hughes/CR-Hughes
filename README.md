@@ -5,7 +5,8 @@
 Currently working @NesloTechnologies and soaking up as much technical and business skills as possible.
 
 
-I am a full stack dev mainly using Ruby on Rails and React.js.
+I am a full stack dev mainly using `Ruby on Rails` and `React`.
+
 Currently learning: `Python`,`Django` & `Angular`.
 
 [![committers.top badge](https://user-badge.committers.top/south_africa/Connor-Hughes-Nes.svg)](https://committers.top/south_africa_private#Connor-Hughes-Nes)
