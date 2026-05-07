@@ -11,7 +11,7 @@ Currently learning: `Python`,`Django` & `Angular`.
 
 [![committers.top badge](https://user-badge.committers.top/south_africa/Connor-Hughes-Nes.svg)](https://committers.top/south_africa_private#Connor-Hughes-Nes)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ruby,rails,docker,git,heroku,html,idea,mysql,nodejs,postgres,postman,react,redis,redux,regex,sass,blender,figma,stackoverflow,tailwind,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ruby,rails,docker,git,heroku,html,idea,mysql,nodejs,postgres,postman,react,redis,redux,regex,sass,blender,figma,stackoverflow,tailwind,unity,python,djanog,angular)](https://skillicons.dev)
 
 [![Connor's Streak](https://streak-stats.demolab.com?user=Connor-Hughes-Nes&theme=dark&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
