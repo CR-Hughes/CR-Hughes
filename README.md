@@ -10,7 +10,7 @@ Currently learning: `Python`,`Django`, `Angular` & `Vue`
 
 [![committers.top badge](https://user-badge.committers.top/south_africa/Connor-Hughes-Nes.svg)](https://committers.top/south_africa_private#Connor-Hughes-Nes)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ruby,rails,docker,git,heroku,html,idea,mysql,nodejs,postgres,postman,react,redis,redux,regex,sass,blender,figma,stackoverflow,tailwind,unity,python,djanog,angular)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ruby,rails,docker,git,heroku,html,idea,mysql,nodejs,postgres,postman,react,redis,redux,regex,sass,blender,figma,stackoverflow,tailwind,unity,python,django,angular,vue,bash,elasticsearch,gcp,aijest,kubernetes,md,sass,ts,vite,webpack)](https://skillicons.dev)
 
 [![Connor's Streak](https://streak-stats.demolab.com?user=CR-Hughes&theme=dark&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
