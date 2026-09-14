@@ -2,12 +2,11 @@
   
     Tech enthusiast | Game & Software engineering | Combat Sports |
 
-Currently working @NesloTechnologies and soaking up as much technical and business skills as possible.
-
+Currently working as a Senior Engineer @Platfom45 and soaking up as much technical and business skills as possible.
 
 I am a full stack dev mainly using `Ruby on Rails` and `React`.
 
-Currently learning: `Python`,`Django` & `Angular`.
+Currently learning: `Python`,`Django`, `Angular` & `Vue`
 
 [![committers.top badge](https://user-badge.committers.top/south_africa/Connor-Hughes-Nes.svg)](https://committers.top/south_africa_private#Connor-Hughes-Nes)
 
