@@ -21,9 +21,7 @@ Currently learning: `Python`,`Django`, `Angular` & `Vue`
 <!-- <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CR-Hughes&layout=compact&langs_count=6&theme=tokyonight" />
 </a> -->
-<a href="https://github.com/CR-Hughes/CR-Hughes">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CR-Hughes&theme=tokyonight" />
-</a>
+<img src="github-contribution-grid-graph.svg" />
 
 
 
