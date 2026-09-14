@@ -1,10 +1,11 @@
   Hi there 👋 My name is Connor Hughes
+  Johannesburg, South Africa 📌
   
     Tech enthusiast | Game & Software engineering | Combat Sports |
 
 Currently working as a Senior Engineer @Platfom45 and soaking up as much technical and business skills as possible.
 
-I am a full stack dev mainly using `Ruby on Rails` and `React`.
+I am a full stack engineer mainly using `Ruby on Rails` and `React`.
 
 Currently learning: `Python`,`Django`, `Angular` & `Vue`
 
