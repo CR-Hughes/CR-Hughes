@@ -1,0 +1,26 @@
+name: generate activity graph
+on:
+  schedule:
+    - cron: "0 */6 * * *"  # every 6 hours
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: Ashutosh00710/github-readme-activity-graph@v2.0.1
+        with:
+          animation_time: 5
+          area: true
+          github_username: CR-Hughes
+          hide_border: true
+          theme: tokyonight
+          output: github-contribution-grid-graph.svg
+
+      - name: Push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: update activity graph
+          file_pattern: github-contribution-grid-graph.svg
