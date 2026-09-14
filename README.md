@@ -12,7 +12,7 @@ Currently learning: `Python`,`Django`, `Angular` & `Vue`
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ruby,rails,docker,git,heroku,html,idea,mysql,nodejs,postgres,postman,react,redis,redux,regex,sass,blender,figma,stackoverflow,tailwind,unity,python,djanog,angular)](https://skillicons.dev)
 
-[![Connor's Streak](https://streak-stats.demolab.com?user=Connor-Hughes-Nes&theme=dark&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![Connor's Streak](https://streak-stats.demolab.com?user=CR-Hughes&theme=dark&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 <!--<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=CR-Hughes&count_private=true&show_icons=true&theme=tokyonight&hide=issues" />
