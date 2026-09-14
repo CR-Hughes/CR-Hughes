@@ -15,10 +15,14 @@ Currently learning: `Python`,`Django`, `Angular` & `Vue`
 [![Connor's Streak](https://streak-stats.demolab.com?user=Connor-Hughes-Nes&theme=dark&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 <!--<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Connor-Hughes-Nes&count_private=true&show_icons=true&theme=tokyonight&hide=issues" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CR-Hughes&count_private=true&show_icons=true&theme=tokyonight&hide=issues" />
 </a> -->
-<a href="https://github.com/anuraghazra/convoychat">
+<!--Deployment paused? Fork this and deploy myself
+<!-- <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CR-Hughes&layout=compact&langs_count=6&theme=tokyonight" />
+</a> -->
+<a href="https://github.com/CR-Hughes/CR-Hughes">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CR-Hughes&theme=tokyonight" />
 </a>
 
 
