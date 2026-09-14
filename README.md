@@ -18,7 +18,7 @@ Currently learning: `Python`,`Django`, `Angular` & `Vue`
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Connor-Hughes-Nes&count_private=true&show_icons=true&theme=tokyonight&hide=issues" />
 </a> -->
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Connor-Hughes-Nes&layout=compact&langs_count=6&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CR-Hughes&layout=compact&langs_count=6&theme=tokyonight" />
 </a>
 
 
