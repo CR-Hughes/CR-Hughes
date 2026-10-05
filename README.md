@@ -10,7 +10,8 @@ I am a full stack engineer mainly using `Ruby on Rails` and `React`.
 
 Currently learning: `Python`,`Django`, `Angular` & `Vue`
 
-[![committers.top badge](https://user-badge.committers.top/south_africa/Connor-Hughes-Nes.svg)](https://committers.top/south_africa_private#Connor-Hughes-Nes)
+[![committers.top badge](https://user-badge.committers.top/south_africa/CR-Hughes.svg)](https://committers.top/south_africa_private#CR-Hughes)
+[![committers.top badge](https://user-badge.committers.top/south_africa_private/CR-Hughes.svg)](https://user-badge.committers.top/south_africa_private/CR-Hughes)
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,ruby,react,redux,vue,angular,sass,tailwind,rails,django,nodejs,vite,webpack,jest,mysql,postgres,redis,elasticsearch,docker,kubernetes,git,gcp,heroku,postman,bash,regex,md,idea,figma,blender,unity,ai,stackoverflow)](https://skillicons.dev)
 
