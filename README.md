@@ -2,7 +2,7 @@
   
   Johannesburg, South Africa 📌
   
-    Tech enthusiast | Game & Software engineering | Combat Sports |
+    Tech enthusiast | Game & Software engineering | Combat Sports | Competitive Sport Shooter |
 
 Currently working as a Senior Engineer @Platfom45 and soaking up as much technical and business skills as possible.
 
