@@ -8,7 +8,7 @@ Currently working as a Senior Engineer @Platfom45 and soaking up as much technic
 
 I am a full stack engineer mainly using `Ruby on Rails` and `React`.
 
-Currently learning: `Python`,`Django`, `Angular` & `Vue`
+Currently learning: `TanStack` & `Vue`
 
 [![committers.top badge](https://user-badge.committers.top/south_africa/CR-Hughes.svg)](https://committers.top/south_africa_private#CR-Hughes)
 [![committers.top badge](https://user-badge.committers.top/south_africa_private/CR-Hughes.svg)](https://user-badge.committers.top/south_africa_private/CR-Hughes)
